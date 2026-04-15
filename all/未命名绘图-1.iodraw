@@ -1,0 +1,82 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="NzkadVlkmNAnT7kvgED6">
+    <mxGraphModel dx="1380" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8hHVtNkraaOGVzkFZyng-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8hHVtNkraaOGVzkFZyng-3" target="8hHVtNkraaOGVzkFZyng-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-3" value="观察路上的车流，小孩的颜色与终点的颜色" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="309" y="139.9" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8hHVtNkraaOGVzkFZyng-4" target="8hHVtNkraaOGVzkFZyng-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-4" value="利用黑客能力暂时打断混乱的车流，创造安全的路线" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="309" y="339.9" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8hHVtNkraaOGVzkFZyng-5" target="8hHVtNkraaOGVzkFZyng-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-5" value="决定这次的行进路线" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="309" y="239.89999999999998" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8hHVtNkraaOGVzkFZyng-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="383.6521739130435" y="539.9" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-8" value="利用召集能力带领对应颜色的小孩移动" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="309" y="439.9" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8hHVtNkraaOGVzkFZyng-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385.39130434782646" y="679.9000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-14" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="8hHVtNkraaOGVzkFZyng-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.3866" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8hHVtNkraaOGVzkFZyng-11" target="8hHVtNkraaOGVzkFZyng-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-17" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="8hHVtNkraaOGVzkFZyng-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.4916" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-11" value="路途过于遥远" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="300" y="539.9" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8hHVtNkraaOGVzkFZyng-13" target="8hHVtNkraaOGVzkFZyng-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-13" value="利用召集能力带领对应颜色的小孩移动" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="309" y="679.9000000000001" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8hHVtNkraaOGVzkFZyng-15" target="8hHVtNkraaOGVzkFZyng-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-15" value="将小孩暂存至较近的冰激凌车，并返回起点。" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="470" y="419.9" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8hHVtNkraaOGVzkFZyng-19" target="8hHVtNkraaOGVzkFZyng-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="859.95" />
+              <mxPoint x="240" y="859.95" />
+              <mxPoint x="240" y="119.95" />
+              <mxPoint x="384" y="119.95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8hHVtNkraaOGVzkFZyng-19" value="根据颜色分类将小孩放到不同的终点" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="310" y="779.95" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
