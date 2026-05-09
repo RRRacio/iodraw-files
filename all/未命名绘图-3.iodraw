@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XsWD9RLViXLRa1cVBsC9-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;界碑&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XsWD9RLViXLRa1cVBsC9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XsWD9RLViXLRa1cVBsC9-2" target="XsWD9RLViXLRa1cVBsC9-4">
           <mxGeometry relative="1" as="geometry" />
@@ -24,10 +24,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XsWD9RLViXLRa1cVBsC9-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;世界地图&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XsWD9RLViXLRa1cVBsC9-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;旅途环节&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XsWD9RLViXLRa1cVBsC9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XsWD9RLViXLRa1cVBsC9-8" target="XsWD9RLViXLRa1cVBsC9-9">
           <mxGeometry relative="1" as="geometry" />
@@ -42,7 +42,7 @@
           <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XsWD9RLViXLRa1cVBsC9-16" value="基础操作的学习&lt;div&gt;世界观的构建&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="110" width="210" height="80" as="geometry" />
+          <mxGeometry x="490" y="110" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
