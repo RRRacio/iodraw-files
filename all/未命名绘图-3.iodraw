@@ -85,6 +85,9 @@
         <mxCell id="XsWD9RLViXLRa1cVBsC9-40" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;篝火环节&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="770" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XsWD9RLViXLRa1cVBsC9-42" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="750" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
