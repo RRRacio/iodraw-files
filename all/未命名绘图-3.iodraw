@@ -17,7 +17,7 @@
             <mxPoint x="490" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XsWD9RLViXLRa1cVBsC9-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;据点阶段&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;（停留点阶段）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XsWD9RLViXLRa1cVBsC9-1" value="&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;停留点阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XsWD9RLViXLRa1cVBsC9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XsWD9RLViXLRa1cVBsC9-2" target="XsWD9RLViXLRa1cVBsC9-34">
@@ -65,7 +65,7 @@
           <mxGeometry x="330" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XsWD9RLViXLRa1cVBsC9-28" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.补给冒险所需的物资&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2.接取任务&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;3.决定下次冒险的目的地&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="530" y="315" width="140" height="70" as="geometry" />
+          <mxGeometry x="550" y="240" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XsWD9RLViXLRa1cVBsC9-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.战斗教学&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2.世界观的构建代入&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="540" y="115" width="140" height="70" as="geometry" />
