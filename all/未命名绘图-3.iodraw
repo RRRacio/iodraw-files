@@ -85,8 +85,8 @@
         <mxCell id="XsWD9RLViXLRa1cVBsC9-40" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;篝火环节&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XsWD9RLViXLRa1cVBsC9-43" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="850" width="120" height="80" as="geometry" />
+        <mxCell id="XsWD9RLViXLRa1cVBsC9-43" value="是否抵达目的地" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
