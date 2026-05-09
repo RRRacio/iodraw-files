@@ -82,8 +82,14 @@
         <mxCell id="XsWD9RLViXLRa1cVBsC9-38" value="玩家根据自己的选择前往不同的目的地，不同的目的地需要花费的时间不同。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="530" y="435" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="XsWD9RLViXLRa1cVBsC9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XsWD9RLViXLRa1cVBsC9-40" target="XsWD9RLViXLRa1cVBsC9-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XsWD9RLViXLRa1cVBsC9-40" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;篝火环节&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XsWD9RLViXLRa1cVBsC9-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XsWD9RLViXLRa1cVBsC9-43" target="XsWD9RLViXLRa1cVBsC9-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XsWD9RLViXLRa1cVBsC9-43" value="是否抵达目的地" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="860" width="120" height="60" as="geometry" />
