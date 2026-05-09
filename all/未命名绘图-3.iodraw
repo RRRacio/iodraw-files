@@ -64,8 +64,8 @@
         <mxCell id="XsWD9RLViXLRa1cVBsC9-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.战斗教学&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2.世界观的构建代入&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="540" y="115" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XsWD9RLViXLRa1cVBsC9-32" value="旅途内经历各种遭遇，&lt;span style=&quot;background-color: initial;&quot;&gt;玩家对遭遇做出不同的选择，可以走不同的旅途路线，但是抵达的终点都是一致的&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="530" y="565" width="140" height="70" as="geometry" />
+        <mxCell id="XsWD9RLViXLRa1cVBsC9-32" value="旅途内经历各种遭遇，&lt;span style=&quot;background-color: initial;&quot;&gt;玩家对遭遇做出不同的选择，可以走不同的旅途路线，但是抵达的终点都是一致的。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="530" y="565" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
