@@ -37,7 +37,7 @@
         <mxCell id="tCIlXWMu7QhMW9VRrSdr-11" value="将食材丢入锅中进行烹饪（对着锅按下A键）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tCIlXWMu7QhMW9VRrSdr-13" value="将食材丢入锅中进行烹饪（对着锅按下A键）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tCIlXWMu7QhMW9VRrSdr-13" value="食材烹饪完毕，获得食物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
