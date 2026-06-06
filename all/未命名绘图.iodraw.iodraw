@@ -25,8 +25,8 @@
         <mxCell id="tCIlXWMu7QhMW9VRrSdr-7" value="打开菜单-食材界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tCIlXWMu7QhMW9VRrSdr-9" value="打开菜单-食材界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="tCIlXWMu7QhMW9VRrSdr-9" value="手持烹饪所需要的材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
