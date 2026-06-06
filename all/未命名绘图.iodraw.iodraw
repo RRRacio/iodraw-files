@@ -34,7 +34,7 @@
         <mxCell id="tCIlXWMu7QhMW9VRrSdr-9" value="手持烹饪所需要的材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tCIlXWMu7QhMW9VRrSdr-11" value="将食材丢入锅中进行烹饪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tCIlXWMu7QhMW9VRrSdr-11" value="将食材丢入锅中进行烹饪（对着锅按下A键）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
