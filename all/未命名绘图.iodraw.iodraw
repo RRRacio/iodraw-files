@@ -16,11 +16,17 @@
         <mxCell id="tCIlXWMu7QhMW9VRrSdr-3" value="找到一口锅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tCIlXWMu7QhMW9VRrSdr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCIlXWMu7QhMW9VRrSdr-5" target="tCIlXWMu7QhMW9VRrSdr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tCIlXWMu7QhMW9VRrSdr-5" value="为锅点上火" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tCIlXWMu7QhMW9VRrSdr-7" value="打开菜单-食材界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCIlXWMu7QhMW9VRrSdr-9" value="打开菜单-食材界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
